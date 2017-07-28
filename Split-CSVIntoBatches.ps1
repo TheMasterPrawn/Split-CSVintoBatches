@@ -4,7 +4,7 @@ Robert Allen @TheMasterPrawn
 Splits a csv file into a number of files each containing N batches.
 
 .PARAMETER filePath
-The path to the CSV file you need to extract the batched from.
+The path to the CSV file you need to extract the batches from.
 
 .PARAMETER batchesOf
 How many rows from the input CSV do you want in each file.
